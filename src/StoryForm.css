@@ -1,0 +1,11 @@
+.StoryForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.StoryForm-btn {
+  display: flex;
+  justify-content: space-around;
+}
